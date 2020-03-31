@@ -16,3 +16,14 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera
+{
+    background:  #33A;
+    box-shadow: blueviolet;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0fr;
+
+}
